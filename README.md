@@ -1,0 +1,1 @@
+# readycoin-private-chain
